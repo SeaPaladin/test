@@ -11,3 +11,5 @@ Well
 CHANGES
 
 And some more changes
+
+This change was made using the in-browser editor!
